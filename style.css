@@ -6,4 +6,6 @@
 body {
     background-color: rgb(180, 248, 226);
     text-align: center;
+    margin: 30px;
+    padding: 30px;
 }
